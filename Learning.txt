@@ -1,0 +1,10 @@
+Goal:
+1. Detect when cars collide with each other and 
+with obstacles to reduce the life of players in the game
+2. Change the animation of the car when the life of a player reduces to 0
+3. Disable the control of cars, once the animation is changed.
+
+Collision detection:
+
+1. obstacle. collide()
+2. Reduce the life of the players
